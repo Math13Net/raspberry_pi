@@ -1,5 +1,6 @@
 # raspberry_pi
 [documentation](https://www.raspberrypi.com/documentation/)
+[raspberry pi with node-red - my conference](https://mediapod.u-bordeaux.fr/video/12895-expose-christie-vassilian/)
 
 <p align="center">
 <a href="https://youtu.be/6sFrQaDtK5Q" target="_blank"><img src="https://github.com/Math13Net/raspberry_pi/blob/main/raspberry_pi.jpg" alt="AI with raspberry pi and node red" width="240" height="145" border="10" /></a>
