@@ -2,7 +2,7 @@
 [documentation](https://www.raspberrypi.com/documentation/)
 
 <p align="center">
-<a href="https://youtu.be/6sFrQaDtK5Q" target="_blank"><img src="[https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg](https://github.com/Math13Net/raspberry_pi/blob/main/raspberry_pi)" alt="NSI Première" width="240" height="145" border="10" /></a>
+<a href="https://youtu.be/6sFrQaDtK5Q" target="_blank"><img src="[https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg](https://github.com/Math13Net/raspberry_pi/blob/main/raspberry_pi)" alt="NSI Première" width="120" height="70" border="10" /></a>
 </p>
  
 ## 🚀 [1. Cours NSI terminale 2022-2023](#cours)
