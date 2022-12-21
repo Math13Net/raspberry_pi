@@ -63,10 +63,15 @@
 ## <a name="reference"></a> 8. quelques références de qualité
 
 ### 8.1. livre
-  * [NSI Terminale - Serge Bays](https://www.editions-ellipses.fr/accueil/14459-26812-specialite-numerique-et-sciences-informatiques-terminale-2e-edition-9782340071209.html#/1-format_disponible-broche)
-  * [NSI Terminale - Balabonski, Conchon, Filliâtre, Nguyen](https://www.nsi-terminale.fr/)
+  * [Raspberry Pi Cookbook, 4th Edition]()
+  * [Raspberry Pi Image Processing Programming: With NumPy, SciPy, Matplotlib, and OpenCV]()
+  * [Practical Linux with Raspberry Pi OS: Quick Start]()
+  * [Programming with Node-RED](https://www.amazon.fr/Programming-Node-RED-Projects-Raspberry-Arduino/dp/1907920889/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=16EWT0HUGSYZ2&keywords=Node-RED&qid=1671639117&sprefix=node-red%2Caps%2C131&sr=8-1)
+  * [Practical Node-RED Programming](https://www.amazon.fr/Practical-Node-RED-Programming-programming-techniques-ebook/dp/B08SJGQPNL/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=RMUPD7Y276IP&keywords=Practical+Node-RED+Programming&qid=1671639088&sprefix=practical+node-red+programming%2Caps%2C226&sr=8-1)
+  * [Node-RED](https://www.amazon.fr/Node-RED-English-Pier-Calderan-ebook/dp/B0B3LMCPZP/ref=sr_1_2?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3JJ957WUVHHU3&keywords=Node-RED+raspberry+pi&qid=1671641016&s=books&sprefix=node-red+raspberry+pi%2Cstripbooks%2C107&sr=1-2)
   * [Python beginner - john hunt](https://link.springer.com/book/10.1007/978-3-030-20290-3)
-  * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)  
+  * [Python advanced - john hunt](https://link.springer.com/book/10.1007/978-3-030-25943-3)
+  * [Python Challenges: 100 Proven Programming Tasks Designed to Prepare You for Anything]()
   
 
 ### 8.2. vidéo
