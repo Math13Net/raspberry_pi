@@ -91,6 +91,10 @@
 ### 8.4. projet à faire
  * [DIU EIL - Enseigner l'Informatique au Lycée](https://moodle1.u-bordeaux.fr/course/view.php?id=4719)
  * [introduction à python - cours Bordeaux](https://dept-info.labri.fr/ENSEIGNEMENT/INITINFO/initinfo/supports/Cours/poly.pdf)
+ 
+### 8.5. magazine
+ * [rasberry pi : Hello World - trimestre gratuit et très riche](https://helloworld.raspberrypi.org/issues/)
+ * []()
 
 
 ------------------------------------------------------------------------------------------------
