@@ -2,7 +2,7 @@
 [documentation](https://www.raspberrypi.com/documentation/)
 
 <p align="center">
-<a href="https://youtu.be/6sFrQaDtK5Q" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="NSI Première" width="240" height="145" border="10" /></a>
+<a href="https://youtu.be/6sFrQaDtK5Q" target="_blank"><img src="https://github.com/Math13Net/NSI-premiere/blob/master/nsi.jpg" alt="AI with raspberry pi and node red" width="240" height="145" border="10" /></a>
 
 </p>
  
