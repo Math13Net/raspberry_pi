@@ -40,15 +40,8 @@
 
 ## <a name="node_red"></a> 2. node red
 
-### Chapitre 1 : PROGRAMMATION
-* __1 : [récursivité](https://github.com/Math13Net/terminale_NSI/blob/master/recursivite.ipynb)__
-
-### Chapitre 2 : [ALGORITHMIQUE](https://sites.google.com/view/nsi-algorithmique/accueil)
-* __6 : [liste chaînée](https://github.com/Math13Net/terminale_NSI/blob/master/liste_chainee.ipynb)__
-
-### Chapitre 3 : [BASE DE DONNEES](https://sites.google.com/view/nsi-bdd/accueil)
-
-### Chapitre 4 : [ARCHITECTURES MATERIELLES, SYSTEME D'EXPLOITATION ET RESEAUX](https://sites.google.com/view/nsi-archi-syst-reseaux/asr)
+### under construction
+* __1 : []()__
 
 
 ------------------------------------------------------------------------------------------------
