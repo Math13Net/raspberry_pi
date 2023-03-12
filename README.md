@@ -7,7 +7,7 @@
 
 </p>
  
-## 🚀 [1. rasberry pi](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi)
+## 🚀 [1. raspberry pi](https://github.com/Math13Net/Utiliser-son-Raspberry-Pi)
 
 ## 🎃 [2. node red](https://github.com/Math13Net/Utiliser-Node-Red)
 
