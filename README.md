@@ -14,7 +14,10 @@
 ## ❤️ [3. python](#python)
 
 ## 🌈 [4. bien utiliser son jupyter notebook](#)
-
+* __[]()__
+* __[]()__
+* __[]()__
+* __[5 astuces](https://towardsdatascience.com/5-jupyter-hacks-that-you-never-knew-even-existed-9dc0a08fd90a)__
 
 
 ## 🔑 [5. ](#d)
